@@ -8,7 +8,9 @@ Equipe: DevImpact Solutions
 Integrantes:
 
 Laerte de Lara Ferreira Mendes Junior – UX/UI Designer, QA/Tester.
+
 João Lucas Martins – Desenvolvedor Mobile.
+
 João Pedro Chiroli – Scrum Master, Desenvolvedor Back-End.
 
 Projeto Escolhido:
