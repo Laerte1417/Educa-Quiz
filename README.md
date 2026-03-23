@@ -50,3 +50,16 @@ Instituições de ensino que buscam ferramentas digitais de apoio educacional.
 Diferencial:
 
 O Educa+Quiz utiliza gamificação aplicada ao ensino de matemática, combinando aprendizado com elementos de jogo como pontuação, ranking e progressão de níveis. Isso torna o estudo mais atrativo e aumenta o engajamento dos alunos, promovendo uma experiência educacional mais interativa e eficiente.
+
+
+
+Descrição das Personalizações - Educa Quiz: A tela de login foi totalmente customizada utilizando o tema do projeto integrador Educa Quiz. As cores principais utilizadas foram tons de azul escuro e azul foco  para remeter à concentração exigida pela matemática e pela educação em geral.
+
+A logo foi centralizada no topo e implementamos os textos de boas-vindas personalizados: "Educa Quiz - Desafie sua mente com a matemática!".
+
+Além de atender todos os requisitos mínimos (como Flexbox, KeyboardAvoidingView e validações de input via propriedades como keyboardType e secureTextEntry), também concluímos os desafios extras, implementando:
+
+Ícones de usabilidade (Unicode/emojis) atrelados diretamente aos inputs;
+Implementação dinâmica do separador clássico "ou" no meio da tela;
+Layout com botões base para login através de redes sociais (SSO - Google e Apple), dividindo o espaço igualmente no estilo utilizando Flexbox. Todo o código foi escrito, tipado de maneira organizada através de TypeScript, e estruturado para telas dinâmicas mobile.
+
